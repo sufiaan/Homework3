@@ -1,2 +1,0 @@
-# Sufiaan
-print('hello')
